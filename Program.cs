@@ -1,4 +1,6 @@
-﻿bool playAgain = true;
+﻿//Well done. Slight typo in line asking for player's name, otherwise amazing. Love the story! Good job! ~Liz
+
+bool playAgain = true;
 bool playAgainResponse = true;
 
 
