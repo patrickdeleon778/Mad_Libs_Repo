@@ -1,10 +1,10 @@
 // ================== MAD LIBS _ GIT HUB ==================== //
 
-Name:
+Name: Patrick De Leon
 
-Date:
+Date: 10/25/22
 
-Peer Reviewer:
+Peer Reviewer: Liz Garcia
 
 Peer Comment: 
 
