@@ -6,7 +6,7 @@ Date: 10/25/22
 
 Peer Reviewer: Liz Garcia
 
-Peer Comment: 
+Peer Comment: Well done. Slight typo in line asking for player's name, otherwise amazing. Love the story! Good job! ~Liz
 
 c_     ___
   \\\\__|__|__
