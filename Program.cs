@@ -13,7 +13,7 @@ string? name, cryptoid, goodFriendStatus, location, videoGame, animal, weapon1, 
     {
         playAgainResponse = true;
 
-        Console.Write("Enter a your Name: "); // console asks for what your name is
+        Console.Write("Enter your Name: "); // console asks for what your name is
         name = Console.ReadLine(); // user inputs their name
 
         Console.Write("Enter a Cryptoid: "); // console asks to input a cryptoid
